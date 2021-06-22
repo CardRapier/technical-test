@@ -32,7 +32,7 @@ export const Locations = () => {
       </div>
       <div>
         <img
-          src="https://images.all-free-download.com/images/graphiclarge/city_background_high_buildings_icons_colored_flat_design_6836743.jpg"
+          src="https://i.ibb.co/py9vsH5/city-background-high-buildings-icons-colored-flat-design-6836743-min.jpg"
           width="130"
           alt="city"
         ></img>

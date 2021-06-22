@@ -8,7 +8,7 @@ export const Reviews = () => {
       <TopReviews />
       <div style={{ marginBottom: "1.5em" }}>
         <ImageContainer
-          backgroundImage="https://live.staticflickr.com/65535/50789408612_9e5f249fec_b.jpg"
+          backgroundImage="https://i.ibb.co/WtqshQG/50789408612-9e5f249fec-b-min.jpg"
           heightImage="60px"
           fontSize="12px"
           srcIcon="icons/icons8-marcador-100.png"
@@ -42,7 +42,7 @@ export const Reviews = () => {
         </button>
 
         <ImageContainer
-          backgroundImage="https://live.staticflickr.com/65535/50789408612_9e5f249fec_b.jpg"
+          backgroundImage="https://i.ibb.co/WtqshQG/50789408612-9e5f249fec-b-min.jpg"
           heightImage="125px"
           fontSize="12px"
           srcIcon="icons/icons8-marcador-100.png"

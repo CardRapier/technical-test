@@ -6,7 +6,7 @@ export const Banner = () => {
     <header>
       <div style={{ margin: "1em", marginLeft: "2em" }}>
         <ImageContainer
-          backgroundImage="https://bogota.gov.co/sites/default/files/styles/1050px/public/eventos/2020-01/bogot-la-candelaria_3349326043_o.jpg"
+          backgroundImage="https://i.ibb.co/gDGn1FF/bogot-la-candelaria-3349326043-o-min.jpg"
           heightImage="300px"
           fontSize="40px"
           srcIcon="icons/icons8-marcador-100.png"
