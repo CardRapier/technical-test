@@ -1,0 +1,11 @@
+#banner {
+  position: relative;
+}
+
+.container {
+  display: flex;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  font-size: 40px;
+}
