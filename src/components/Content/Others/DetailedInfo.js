@@ -25,7 +25,6 @@ const getWindDirection = (degrees) => {
 
 export const DetailedInfo = () => {
   const { current } = useContext(WeatherContext);
-  console.log(current);
   return (
     <div
       style={{

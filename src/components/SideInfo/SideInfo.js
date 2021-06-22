@@ -8,7 +8,7 @@ export const SideInfo = () => {
   const { current_daily } = useContext(WeatherContext);
   const { current } = current_daily;
   return (
-    <div className="container">
+    <div className="side-info">
       <div className="bottom">
         <div className="text">
           <p>
